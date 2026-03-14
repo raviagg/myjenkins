@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/raviagg/myjenkins
-    targetRevision: HEAD
+    targetRevision: main
     path: .
 
   destination:
